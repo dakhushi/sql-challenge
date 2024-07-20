@@ -1,4 +1,4 @@
-#Employee Database Analysis using PostgreSQL
+# Employee Database Analysis using PostgreSQL
 
 ## Challenge Instructions
 For this project, you’ll design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. That is, you’ll perform data modelling, data engineering, and data analysis, respectively.
@@ -7,9 +7,9 @@ For this project, you’ll design the tables to hold the data from the CSV files
 
 - Inspect the CSV files, and then sketch an ERD of the tables. To create the sketch, I have used  QuickDBDLinks to an external site.. tool. 
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](C:\Users\Kothari\Desktop\Satyen's Desktop\00 Data Analitics Bootcamp-Khushi\Module 9 - SQL\sql-challenge)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]([C:\Users\Kothari\Desktop\Satyen's Desktop\00 Data Analitics Bootcamp-Khushi\Module 9 - SQL\sql-challenge](https://github.com/dakhushi/sql-challenge/blob/main/ERD_Employee_DB.png))
 
-##Data Engineering
+## Data Engineering
 
 - Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
 
